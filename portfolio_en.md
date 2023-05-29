@@ -2,45 +2,46 @@
 
 
 ## Development & Design Projects
+
 ### WIP Portfolio Website
-Task: UX-Designer, Wedevelopment & Writing
-Client/Organisation: Personal
-Date: 2022 - Now
-Location: Randstad
-Link: https://luukftf.github.io/portfolio-onepager
-Technologies: Hugo, Markdown, SCSS, UX-Design
+Task: UX-Designer, Wedevelopment & Writing  
+Client/Organisation: Personal  
+Date: 2022 - Now  
+Location: Randstad  
+Link: https://luukftf.github.io/portfolio-onepager  
+Technologies: Hugo, Markdown, SCSS, UX-Design  
 -----
 
 ### WIP Choir App
-Task: UX-Designer, Frontend Developer, Github Managing
-Client/Organisation: Vocal Popgroup Re-flax, Vocalgroup Dynamite
-Date: 2022 - Now
-Location: Randstad
-Link: TBA
-Technologies: React, SCSS, Github, UX-Design
+Task: UX-Designer, Frontend Developer, Github Managing  
+Client/Organisation: Vocal Popgroup Re-flax, Vocalgroup Dynamite  
+Date: 2022 - Now  
+Location: Randstad  
+Link: TBA  
+Technologies: React, SCSS, Github, UX-Design  
 -----
 Team:
-- **Mark Hendrikx** - Backend Developer
+- **Mark Hendrikx** - Backend Developer  
 -----
 
 ### WIP Startup Project - Nederlands Leren Lezen
-Task: UX-Designer, Frontend Developer, Github Managing
-Client/Organisation: CMGT
-Date: 2023 Mar - 2023 Jul
-Location: Rotterdam
-Link: TBA
-Technologies: React, Tailwind, Github, NodeJS, GPT, UX-Design
+Task: UX-Designer, Frontend Developer, Github Managing  
+Client/Organisation: CMGT  
+Date: 2023 Mar - 2023 Jul  
+Location: Rotterdam  
+Link: TBA  
+Technologies: React, Tailwind, Github, NodeJS, GPT, UX-Design  
 -----
 Team:
-- **Max van Schoonderwoerd** - Designer & Fullstack Developer
-- **Jafir Kluis** - Researcher & Frontend Developer
-- **Joey Randsdorp** - Researcher & Inclusivity Technologist
-- **Tarik Slaghek** - Entrepreneurial Technologist & Frontend Developer
+- **Max van Schoonderwoerd** - Designer & Fullstack Developer  
+- **Jafir Kluis** - Researcher & Frontend Developer  
+- **Joey Randsdorp** - Researcher & Inclusivity Technologist  
+- **Tarik Slaghek** - Entrepreneurial Technologist & Frontend Developer  
 -----
 
 ### Agency Project - Strijderdam
-Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer   
-Client/Organisation: CMGT & Lectoraat Hogeschool Leiden (Jan Dirk de Jong)  
+Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer     
+Client/Organisation: CMGT & Lectoraat Hogeschool Leiden (Jan Dirk de Jong)    
 Date: 2022 Sept - 2023 Feb  
 Location: Rotterdam  
 Link: https://cmgt.hr.nl/projecten/strijderdam
@@ -54,21 +55,21 @@ Team:
 -----
 
 ### Templating Buddy
-Task: Webdeveloper & AI Researcher
-Client/Organisation: CMGT Programmeren 8
-Date: 2022-04-03
-Location: Randstad
+Task: Webdeveloper & AI Researcher  
+Client/Organisation: CMGT Programmeren 8  
+Date: 2022-04-03  
+Location: Randstad  
 Link: [Prototype Link](https://luukftf.github.io/prg08-eindopdracht/) [Demo Video](https://www.youtube.com/watch?v=ZkRzctgZ3WU&feature=youtu.be) [Repo Link](https://github.com/LuukFTF/prg08-eindopdracht)
 [Project Overview](https://luukftf.github.io/portfolio-onepager/projects/1/)
-Technologies: AI, Javascript
+Technologies: AI, Javascript  
 
 ### CMGT: The Game
-Task: Gamedeveloper
-Client/Organisation: CMGT
-Date: 2021
-Location: Randstad
-Link: 
-Technologies: Typescript, PIXI
+Task: Gamedeveloper  
+Client/Organisation: CMGT  
+Date: 2021  
+Location: Randstad  
+Link:   
+Technologies: Typescript, PIXI  
 -----
 Team:
 - **Dani Verschoor** - Gamedeveloper
@@ -76,16 +77,16 @@ Team:
 -----
 
 ### Choirapp Alpha
-Task: Webdeveloper
-Client/Organisation: CMGT, Vocal Popgroup Re-flax
-Date: 2021
-Location: Randstad
-Link: 
-Technologies: Laravel
+Task: Webdeveloper  
+Client/Organisation: CMGT, Vocal Popgroup Re-flax  
+Date: 2021  
+Location: Randstad  
+Link:   
+Technologies: Laravel  
 
 ### heyGame
-Task: Gamedeveloper, Gamedesigner
-Client/Organisation: CMGT
+Task: Gamedeveloper, Gamedesigner  
+Client/Organisation: CMGT  
 Date: 2021
 Location: Randstad
 Link: https://github.com/LuukFTF/heyGame
