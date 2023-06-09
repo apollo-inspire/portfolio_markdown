@@ -200,7 +200,7 @@ Team:
 
 ### De Kuip Videoclip
 
-Task: Camera Operator, Camera Assistant & Script 
+Task: Camera Operator, Camera Assistant & Script Writer   
 Client/Organisation: Vocal Popgroup Re-flax  
 Date: 2021-09-18   
 Location: Rotterdam, De Kuip   
@@ -211,8 +211,8 @@ For this project, I contributed to the video production of the music video. I wo
 On the actual production day, we had to shoot a large number of scenes within a limited time frame. I acted as the ground camera operator that day and assisted with the drone shots. I closely followed the director's instructions during this process.
 
 Team:
-- **Jeffrey van der Vegt** - Director, Drone Operator, Video/Audio Editor & Script
-- **Martine van der Kaaden** - Producer & Script
+- **Jeffrey van der Vegt** - Director, Drone Operator, Video/Audio Editor & Script Writer  
+- **Martine van der Kaaden** - Producer & Script Writer  
 - **Tristan Vlok** - Production Assistant
 - **Lars Kramer** - Production Assistant
 - **Reijer Tempelaar** - Production Assistant
