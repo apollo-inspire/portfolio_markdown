@@ -84,12 +84,12 @@ When entering the data, real-time predictions are made in the empty fields. Addi
 
 ### Target Audience Research
 
-Task: User Research, UX-Design
-Client/Organisation: CMGT
-Date: 2022 Jan
+Task: User Research, UX-Design  
+Client/Organisation: CMGT  
+Date: 2022 Jan   
 Location: Randstad  
-Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-doelgroep.html, https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-interactie_2.html  
-Technologies: Markdown, Google Spreadsheet
+Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-doelgroep.html, https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-interactie_2.html   
+Technologies: Markdown, Google Spreadsheet  
 
 
 ### CMGT: The Game
