@@ -15,6 +15,9 @@ Location: Randstad
 Link: https://luukftf.github.io/portfolio-onepager  
 Technologies: Hugo, Markdown, SCSS, UX-Design  
 
+My plan for this is to generate a custom portfolio website using the "Hugo" Static Site Generator from a markdown file.
+
+(NL: Mijn plan hiervoor is om met de "Hugo" Static Site Generator een custom portfolio website te genereren vanuit een markdown bestand)
 
 ### WIP Choir App
 
