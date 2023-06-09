@@ -54,8 +54,8 @@ Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Le
 Client/Organisation: CMGT & Lectoraat Hogeschool Leiden (Jan Dirk de Jong)    
 Date: 2022 Sept - 2023 Feb  
 Location: Randstad  
-Link: https://cmgt.hr.nl/projecten/strijderdam
-Technologies: Unreal Engine
+Link: https://cmgt.hr.nl/projecten/strijderdam, https://docs.google.com/document/d/1SouESvgtQAlle31nkC4bPWtvz0YJcqn5d2ZRqpSNQlo/edit?usp=sharing
+Technologies: Unreal Engine, Figma
 
 Team:  
 - **Caspar Bosch** - Designer, Gameplay Engineer, UX Designer
