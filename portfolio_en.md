@@ -82,13 +82,23 @@ In an organization with volunteers, the workload relies entirely on people's fre
 
 When entering the data, real-time predictions are made in the empty fields. Additionally, the color of the item changes based on its label.
 
+### Target Audience Research
+
+Task: User Research, UX-Design
+Client/Organisation: CMGT
+Date: 2022 Jan
+Location: Randstad  
+Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-doelgroep.html, https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-interactie_2.html  
+Technologies: Markdown, Google Spreadsheet
+
+
 ### CMGT: The Game
 
 Task: Gamedeveloper  
 Client/Organisation: CMGT  
 Date: 2021  
 Location: Randstad  
-Link:   
+Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-gaming.html   
 Technologies: Typescript, PIXI  
 
 Team:
@@ -102,7 +112,7 @@ Task: Webdeveloper
 Client/Organisation: CMGT, Vocal Popgroup Re-flax  
 Date: 2021  
 Location: Randstad  
-Link:   
+Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-backend.html     
 Technologies: Laravel  
 
 ### heyGame
@@ -160,7 +170,7 @@ Task: Camera Operator, Editor
 Client/Organisation: Vocal Popgroup Re-flax   
 Date: 2022 September   
 Location: Scheveningen  
-Link: https://www.youtube.com/watch?v=4nRc_EuF-DQ&list=PLmQfqyOfuSt4v7MQ8ReekY_pmetqfjWvu
+Link: https://www.youtube.com/watch?v=4nRc_EuF-DQ&list=PLmQfqyOfuSt4v7MQ8ReekY_pmetqfjWvu  
 
 ### Interviews Re-flax 20
 
