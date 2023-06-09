@@ -1,5 +1,8 @@
 # Portfolio English
+Lucas van der Vegt  
+lpsvandervegt@gmail.com  
 
+*Webdeveloper & UX-Designer*
 
 ## Development & Design Projects
 
@@ -31,9 +34,9 @@ Team:
 Task: UX-Designer, Frontend Developer, Github Managing  
 Client/Organisation: CMGT  
 Date: 2023 Mar - 2023 Jul  
-Location: Rotterdam  
+Location: Randstad  
 Link: TBA  
-Technologies: React, Tailwind, Github, NodeJS, GPT, UX-Design  
+Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma
 
 Team:
 - **Max van Schoonderwoerd** - Designer & Fullstack Developer  
@@ -47,7 +50,7 @@ Team:
 Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer     
 Client/Organisation: CMGT & Lectoraat Hogeschool Leiden (Jan Dirk de Jong)    
 Date: 2022 Sept - 2023 Feb  
-Location: Rotterdam  
+Location: Randstad  
 Link: https://cmgt.hr.nl/projecten/strijderdam
 Technologies: Unreal Engine
 
@@ -101,21 +104,9 @@ Link: https://github.com/LuukFTF/heyGame
 Technologies: Typescript  
 
 Team:
-Dani Verschoor
-Jay van 
-Kevin
-
-
-
-### Floatsynth
-
-Task: Developer  
-Client/Organisation: CMGT  
-Date: 2020  
-Location: Randstad  
-Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-ironman.html
-Technologies: Arduino, Midi
-
+- **Dani Verschoor**
+- **Jay** 
+- **Kevin** 
 
 ### Medivus
 
@@ -124,10 +115,10 @@ Client/Organisation: Vorteq Industries, Medivus
 Date: 2021  
 Location: Rotterdam  
 Link: https://www.medivus.nl/  
-Technologies: Angular  
+Technologies: Angular, Figma, NodeJS, Linux
 
 Team: 
-- Vorteq Development Team  
+- **Vorteq Development Team**
 
 
 ### RoserSuite
@@ -140,8 +131,16 @@ Link: https://info.prometheusgroup.com/hubfs/Updated%20Datasheets/STO/Prometheus
 Technologies: C#, VisualBasic, .NET, Visual Studio Code
 
 Team: 
-- RoserSuite Incident Team
+- **RoserSuite Incident Team**
 
+### Floatsynth
+
+Task: Developer  
+Client/Organisation: CMGT  
+Date: 2020  
+Location: Randstad  
+Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-ironman.html  
+Technologies: Arduino, Midi
 
 ## Video Projects
 ### Terug naar de Kust
@@ -238,13 +237,16 @@ Team:
 
 
 
-<!-- ### Template
+<!-- 
+
+### Template
 Task: 
 Client/Organisation:
 Date:
 Location:
 Link: 
 Technologies: 
------
+
 Team:
------ -->
+
+-->
