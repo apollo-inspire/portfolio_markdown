@@ -11,7 +11,7 @@ Date: 2022 - Now
 Location: Randstad  
 Link: https://luukftf.github.io/portfolio-onepager  
 Technologies: Hugo, Markdown, SCSS, UX-Design  
------
+
 
 ### WIP Choir App
 
@@ -21,10 +21,10 @@ Date: 2022 - Now
 Location: Randstad  
 Link: TBA  
 Technologies: React, SCSS, Github, UX-Design  
------
+
 Team:
 - **Mark Hendrikx** - Backend Developer  
------
+
 
 ### WIP Startup Project - Nederlands Leren Lezen
 
@@ -34,13 +34,13 @@ Date: 2023 Mar - 2023 Jul
 Location: Rotterdam  
 Link: TBA  
 Technologies: React, Tailwind, Github, NodeJS, GPT, UX-Design  
------
+
 Team:
 - **Max van Schoonderwoerd** - Designer & Fullstack Developer  
 - **Jafir Kluis** - Researcher & Frontend Developer  
 - **Joey Randsdorp** - Researcher & Inclusivity Technologist  
 - **Tarik Slaghek** - Entrepreneurial Technologist & Frontend Developer  
------
+
 
 ### Agency Project - Strijderdam
 
@@ -50,13 +50,13 @@ Date: 2022 Sept - 2023 Feb
 Location: Rotterdam  
 Link: https://cmgt.hr.nl/projecten/strijderdam
 Technologies: Unreal Engine
------
+
 Team:  
 - **Caspar Bosch** - Designer, Gameplay Engineer, UX Designer
 - **Bilal Hussain** - Researcher
 - **Raïesa Ghauharali** - Researcher
 - **Thomas Martini** - Inclusivity Technologist
------
+
 
 ### Templating Buddy
 
@@ -76,11 +76,11 @@ Date: 2021
 Location: Randstad  
 Link:   
 Technologies: Typescript, PIXI  
------
+
 Team:
 - **Dani Verschoor** - Gamedeveloper
 - **Zino Schubert** - Gamedesigner
------
+
 
 ### Choirapp Alpha
 
@@ -99,12 +99,12 @@ Date: 2021
 Location: Randstad  
 Link: https://github.com/LuukFTF/heyGame  
 Technologies: Typescript  
------
+
 Team:
 Dani Verschoor
 Jay van 
 Kevin
------
+
 
 
 ### Floatsynth
@@ -125,10 +125,10 @@ Date: 2021
 Location: Rotterdam  
 Link: https://www.medivus.nl/  
 Technologies: Angular  
------
+
 Team: 
 - Vorteq Development Team  
------
+
 
 ### RoserSuite
 
@@ -138,10 +138,10 @@ Date: 2020-2021
 Location: Dordrecht  
 Link: https://info.prometheusgroup.com/hubfs/Updated%20Datasheets/STO/Prometheus%20Group_Datasheet_Roser%20Suite_STO.pdf   
 Technologies: C#, VisualBasic, .NET, Visual Studio Code
------
+
 Team: 
 - RoserSuite Incident Team
------
+
 
 ## Video Projects
 ### Terug naar de Kust
@@ -159,13 +159,13 @@ Client/Organisation: Vocal Popgroup Re-flax
 Date: 2022 September  
 Location: Hendrik-Ido-Ambacht, Cascade    
 Link:   
------
+
 Team:
 - **Jeffrey van der Vegt** - Director, Editor
 - **Pascal van der Vegt** - Camera Operator
 - **Martine van der Kaaden** - Producer
 - **Quintus** - Production Assistant
------
+
 
 ### Winterconcert
 
@@ -174,10 +174,10 @@ Client/Organisation: Zinge!
 Date: 2021 Dec  
 Location: Hendrik-Ido-Ambacht, Cascade  
 Link: https://www.youtube.com/watch?v=E24axTEFLSQ&list=PLIS6okABPe3da4IjlKtrrPot1dNdOQZV4  
------
+
 Team:
 - **Pascal van der Vegt** - Camera Operator
------
+
 
 ### When Love Takes Over Show
 
@@ -186,10 +186,10 @@ Client/Organisation: Vocal Popgroup Re-flax
 Date: 2021 Nov  
 Location: Hendrik-Ido-Ambacht, Cascade  
 Link: https://www.youtube.com/watch?v=khPhdZZtgos
------
+
 Team:
 - **Pascal van der Vegt** - Camera Operator
------
+
 
 ### De Kuip Videoclip
 
@@ -198,7 +198,7 @@ Client/Organisation: Vocal Popgroup Re-flax
 Date: 2021-09-18   
 Location: Rotterdam, De Kuip   
 Link: https://www.youtube.com/watch?v=nXrMMtNTfag  
------
+
 Team:
 - **Jeffrey van der Vegt** - Director, Drone Operator & Video/Audio Editor
 - **Martine van der Kaaden** - Producer
@@ -206,7 +206,7 @@ Team:
 - **Lars Kramer** - Production Assistant
 - **Reijer Tempelaar** - Production Assistant
 - **Leo Stout** - Production Assistant
------
+
 
 ## Other Projects
 
@@ -217,12 +217,12 @@ Client/Organisation: Vocal Popgroup Re-flax (& EO, ITV)
 Date: 2023 May  
 Location: Hilversum, Studio 22  
 Link: https://www.eo.nl/programmas/zing-1  
------
+
 Team:
 - **Reijer Tempelaar** - Main Monitor Technician
 - **Lars Kramer** - Monitor Technician Assistent
 - **Tristan Vlok** - Monitor Technician Assistent
------
+
 
 ### Hollands got Talent
 
@@ -231,11 +231,11 @@ Client/Organisation: Vocal Popgroup Re-flax (& RTL)
 Date: 2022 Aug  
 Location: Aalsmeer, Studio 1  
 Link: https://www.gids.tv/video/500714/hollands-got-talent-75-koppige-vocal-popgroup-re-flax-straalt-tijdens-auditie-video  
------
+
 Team:
 - **Lars Kramer** - Monitor Technician Assistent
 - **Tristan Vlok** - Monitor Technician Assistent
------
+
 
 
 <!-- ### Template
