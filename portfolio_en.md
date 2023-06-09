@@ -71,6 +71,14 @@ Link: [Prototype Link](https://luukftf.github.io/prg08-eindopdracht/) [Demo Vide
 [Project Overview](https://luukftf.github.io/portfolio-onepager/projects/1/)
 Technologies: AI, Javascript  
 
+You know when you have to add calendar items for work/school. You have to enter a lot of information so that everyone has all the details, which takes way too much time and effort.
+
+As a solution, we have: Templating Buddy. This AI helps you with repetitive, boring, but important tasks.
+
+In an organization with volunteers, the workload relies entirely on people's free time and requires a lot of individual initiative. To make this as smooth as possible, everyone should be able to accomplish a lot with minimal effort.
+
+When entering the data, real-time predictions are made in the empty fields. Additionally, the color of the item changes based on its label.
+
 ### CMGT: The Game
 
 Task: Gamedeveloper  
@@ -192,15 +200,19 @@ Team:
 
 ### De Kuip Videoclip
 
-Task: Camera Operator & Camera Assistant  
+Task: Camera Operator, Camera Assistant & Script 
 Client/Organisation: Vocal Popgroup Re-flax  
 Date: 2021-09-18   
 Location: Rotterdam, De Kuip   
 Link: https://www.youtube.com/watch?v=nXrMMtNTfag  
 
+For this project, I contributed to the video production of the music video. I worked in a team to create the script and prepare for the production day together.
+
+On the actual production day, we had to shoot a large number of scenes within a limited time frame. I acted as the ground camera operator that day and assisted with the drone shots. I closely followed the director's instructions during this process.
+
 Team:
-- **Jeffrey van der Vegt** - Director, Drone Operator & Video/Audio Editor
-- **Martine van der Kaaden** - Producer
+- **Jeffrey van der Vegt** - Director, Drone Operator, Video/Audio Editor & Script
+- **Martine van der Kaaden** - Producer & Script
 - **Tristan Vlok** - Production Assistant
 - **Lars Kramer** - Production Assistant
 - **Reijer Tempelaar** - Production Assistant
