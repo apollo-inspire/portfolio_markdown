@@ -11,7 +11,6 @@ lpsvandervegt@gmail.com
 Task: UX-Designer, Wedevelopment & Writing  
 Client/Organisation: Personal  
 Date: 2022 - Now  
-Location: Randstad  
 Link: https://luukftf.github.io/portfolio-onepager  
 Technologies: Hugo, Markdown, SCSS, UX-Design  
 
@@ -24,7 +23,7 @@ My plan for this is to generate a custom portfolio website using the "Hugo" Stat
 Task: UX-Designer, Frontend Developer, Github Managing  
 Client/Organisation: Vocal Popgroup Re-flax, Vocalgroup Dynamite  
 Date: 2022 - Now  
-Location: Randstad  
+Location: Drechtsteden  
 Link: TBA  
 Technologies: React, SCSS, Github, UX-Design  
 
@@ -37,7 +36,7 @@ Team:
 Task: UX-Designer, Frontend Developer, Github Managing  
 Client/Organisation: CMGT  
 Date: 2023 Mar - 2023 Jul  
-Location: Randstad  
+Location: Rotterdam  
 Link: TBA  
 Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma
 
@@ -48,12 +47,19 @@ Team:
 - **Tarik Slaghek** - Entrepreneurial Technologist & Frontend Developer  
 
 
+### CV Iteraties
+Task: UX-Design
+Client/Organisation: Personal    
+Technologies: Figma
+
+<!-- insert verschillende stappen in cv met uitleg -->
+
 ### Agency Project - Strijderdam
 
 Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer     
 Client/Organisation: CMGT & Lectoraat Hogeschool Leiden (Jan Dirk de Jong)    
 Date: 2022 Sept - 2023 Feb  
-Location: Randstad  
+Location: Rotterdam-Rijnmond/Drechtsteden  
 Link: https://cmgt.hr.nl/projecten/strijderdam, https://docs.google.com/document/d/1SouESvgtQAlle31nkC4bPWtvz0YJcqn5d2ZRqpSNQlo/edit?usp=sharing
 Technologies: Unreal Engine, Figma
 
@@ -69,7 +75,7 @@ Team:
 Task: Webdeveloper & AI Researcher  
 Client/Organisation: CMGT Programmeren 8  
 Date: 2022-04-03  
-Location: Randstad  
+Location: Rotterdam-Rijnmond/Drechtsteden  
 Link: [Prototype Link](https://luukftf.github.io/prg08-eindopdracht/) [Demo Video](https://www.youtube.com/watch?v=ZkRzctgZ3WU&feature=youtu.be) [Repo Link](https://github.com/LuukFTF/prg08-eindopdracht)
 [Project Overview](https://luukftf.github.io/portfolio-onepager/projects/1/)
 Technologies: AI, Javascript  
@@ -87,7 +93,7 @@ When entering the data, real-time predictions are made in the empty fields. Addi
 Task: User Research, UX-Design  
 Client/Organisation: CMGT  
 Date: 2022 Jan   
-Location: Randstad  
+Location: Rotterdam-Rijnmond/Drechtsteden  
 Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-doelgroep.html, https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-interactie_2.html   
 Technologies: Markdown, Google Spreadsheet  
 
@@ -97,7 +103,7 @@ Technologies: Markdown, Google Spreadsheet
 Task: Gamedeveloper  
 Client/Organisation: CMGT  
 Date: 2021  
-Location: Randstad  
+Location: Rotterdam-Rijnmond/Drechtsteden  
 Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-gaming.html   
 Technologies: Typescript, PIXI  
 
@@ -111,7 +117,7 @@ Team:
 Task: Webdeveloper  
 Client/Organisation: CMGT, Vocal Popgroup Re-flax  
 Date: 2021  
-Location: Randstad  
+Location: Rotterdam-Rijnmond/Drechtsteden  
 Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-backend.html     
 Technologies: Laravel  
 
@@ -120,7 +126,7 @@ Technologies: Laravel
 Task: Gamedeveloper, Gamedesigner  
 Client/Organisation: CMGT  
 Date: 2021  
-Location: Randstad  
+Location: Rotterdam-Rijnmond/Drechtsteden  
 Link: https://github.com/LuukFTF/heyGame  
 Technologies: Typescript  
 
@@ -159,7 +165,7 @@ Team:
 Task: Developer  
 Client/Organisation: CMGT  
 Date: 2020  
-Location: Randstad  
+Location: Rotterdam-Rijnmond/Drechtsteden    
 Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-ironman.html  
 Technologies: Arduino, Midi
 
