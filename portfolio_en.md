@@ -48,11 +48,11 @@ Team:
 
 
 ### CV Iteraties
-Task: UX-Design
-Client/Organisation: Personal    
-Technologies: Figma
+Task: UX-Design  
+Client/Organisation: Personal     
+Technologies: Figma  
 
-<!-- insert verschillende stappen in cv met uitleg -->
+<!-- insert verschillende stappen in cv (fotos) met uitleg & datum -->
 
 ### Agency Project - Strijderdam
 
@@ -279,5 +279,6 @@ Link:
 Technologies: 
 
 Team:
+- **Name Lastname** - Function
 
 -->

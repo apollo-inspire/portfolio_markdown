@@ -22,11 +22,11 @@ Havo Diploma, Natuur & Gezondheid
 
 ## Werkervaring
 
-### Karwei
+<!-- ### Karwei
 Hendrik-Ido-Ambacht
 
 Verkoopmedewerker Decoratief  
-Mei 2023 - heden
+Mei 2023 - heden -->
 
 ### LV Productions
 Freelance Video Producer  
