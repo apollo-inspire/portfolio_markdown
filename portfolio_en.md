@@ -18,7 +18,7 @@ My plan for this is to generate a custom portfolio website using the "Hugo" Stat
 
 (NL: Mijn plan hiervoor is om met de "Hugo" Static Site Generator een custom portfolio website te genereren vanuit een markdown bestand)
 
-### WIP Choir App
+### WIP Choir App (Beta Version)
 
 Task: UX-Designer, Frontend Developer, Github Managing  
 Client/Organisation: Vocal Popgroup Re-flax, Vocalgroup Dynamite  
@@ -54,6 +54,15 @@ Technologies: Figma
 
 <!-- insert verschillende stappen in cv (fotos) met uitleg & datum -->
 
+### Redesign of Rotterdam-The Hague Metropolitan Area Rapid Transit map
+
+Task: UX-Design, Graphical Design
+Date: 2023
+Link:  
+Technologies: Figma
+
+<!-- Insert diffrent iterations with explanation -->
+
 ### Agency Project - Strijderdam
 
 Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer     
@@ -76,8 +85,10 @@ Task: Webdeveloper & AI Researcher
 Client/Organisation: CMGT Programmeren 8  
 Date: 2022-04-03  
 Location: Rotterdam-Rijnmond/Drechtsteden  
-Link: [Prototype Link](https://luukftf.github.io/prg08-eindopdracht/) [Demo Video](https://www.youtube.com/watch?v=ZkRzctgZ3WU&feature=youtu.be) [Repo Link](https://github.com/LuukFTF/prg08-eindopdracht)
-[Project Overview](https://luukftf.github.io/portfolio-onepager/projects/1/)
+Link: [Prototype Link](https://luukftf.github.io/prg08-eindopdracht/)   
+[Demo Video](https://www.youtube.com/watch?v=ZkRzctgZ3WU&feature=youtu.be)   
+[Repo Link](https://github.com/LuukFTF/prg08-eindopdracht)  
+[Project Overview](https://luukftf.github.io/portfolio-onepager/projects/1/)  
 Technologies: AI, Javascript  
 
 You know when you have to add calendar items for work/school. You have to enter a lot of information so that everyone has all the details, which takes way too much time and effort.
