@@ -17,7 +17,7 @@ Technologies: Hugo, Markdown, SCSS, UX-Design
 
 My plan for this is to generate a custom portfolio website using the "Hugo" Static Site Generator from a markdown file.
 
-(NL: Mijn plan hiervoor is om met de "Hugo" Static Site Generator een custom portfolio website te genereren vanuit een markdown bestand)
+(NL: Mijn plan hiervoor is om met de "Hugo" Static Site Generator een custom portfolio website te genereren vanuit een markdown bestand) 
 
 ### WIP Choir App
 
@@ -32,16 +32,16 @@ Team:
 - **Mark Hendrikx** - Backend Developer  
 
 
-### WIP Startup Project - Nederlands Leren Lezen
+### Startup Project - GewoonLezen (Nederlands Leren Lezen)
 
 Task: UX-Designer, Frontend Developer, Github Managing  
 Client/Organisation: CMGT  
-Date: 2023 Mar - 2023 Jul  
+Date: 2023 Mar - 2023 Jul
 Location: Randstad  
-Link: TBA  
+Link: https://cmgt.hr.nl/projecten/gewoonlezen  
 Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma
 
-Team:
+Team LanguageLeap:
 - **Max van Schoonderwoerd** - Designer & Fullstack Developer  
 - **Jafir Kluis** - Researcher & Frontend Developer  
 - **Joey Randsdorp** - Researcher & Inclusivity Technologist  
@@ -154,6 +154,10 @@ Technologies: C#, VisualBasic, .NET, Visual Studio Code
 Team: 
 - **RoserSuite Incident Team**
 
+### RoserSuite Documentation
+
+DocFX
+
 ### Floatsynth
 
 Task: Developer  
@@ -234,6 +238,17 @@ Team:
 
 ## Other Projects
 
+### Amuzing 100 Jaar Jubileum
+
+Task: Main Monitor Technician  
+Client/Organisation: Amuzing  
+Date: 2023 Nov  
+Location: Cascade, Hendrik-Ido-Ambacht  
+
+Team:
+- **Dennis van der Vegt** - Songcoach
+- **Reijer Tempelaar** - Main Monitor Technician
+
 ### Zing!
 
 Task: Backstage Video & Monitor Technician Assistent   
@@ -243,6 +258,7 @@ Location: Hilversum, Studio 22
 Link: https://www.eo.nl/programmas/zing-1  
 
 Team:
+- **Jeffrey van der Vegt** - Songcoach
 - **Reijer Tempelaar** - Main Monitor Technician
 - **Lars Kramer** - Monitor Technician Assistent
 - **Tristan Vlok** - Monitor Technician Assistent
@@ -257,6 +273,7 @@ Location: Aalsmeer, Studio 1
 Link: https://www.gids.tv/video/500714/hollands-got-talent-75-koppige-vocal-popgroup-re-flax-straalt-tijdens-auditie-video  
 
 Team:
+- **Jeffrey van der Vegt** - Songcoach
 - **Lars Kramer** - Monitor Technician Assistent
 - **Tristan Vlok** - Monitor Technician Assistent
 

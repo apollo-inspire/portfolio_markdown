@@ -7,51 +7,63 @@ lpsvandervegt@gmail.com
 
 ## Opleiding
 
-### Hogeschool Rotterdam
-Bachelor of Applied Science
+### Bachelor of Applied Science
+Hogeschool Rotterdam
 
 Creative Media and Game Technologies   
 (2019 - heden) [Propedeuse gehaald]
 
-### Walburg College
-Voortgezet onderwijs
 
+### Havo
+Walburg College
+
+Voortgezet onderwijs
 Havo Diploma, Natuur & Gezondheid  
 (2019)
 
 
 ## Werkervaring
 
-### Karwei
+### Junior Frontend Developer (intern)
+*insert bedrijfsnaam*
+
+Rotterdam
+Sep 2023 - Feb 2024
+
+### Verkoopmedewerker Decoratief  
+Karwei
+
 Hendrik-Ido-Ambacht
+Mei 2023 - Jun 2023
 
-Verkoopmedewerker Decoratief  
-Mei 2023 - heden
+### Freelance Video Producer  
 
-### LV Productions
-Freelance Video Producer  
+LV Productions
 2017 - heden (6+ jaar)  
 [Portfolio: Lucas van der Vegt Productions](https://www.youtube.com/playlist?list=PLrWROtnnxuAOio7eYAoT9SVKgcJR2Dv29)
 
-### Vorteq Interactive
-Rotterdam
+### Junior Frontend Developer  
+Vorteq Interactive
 
-Junior Frontend Developer  
+Rotterdam
 April 2021 - Augustus 2021 (5 maanden)
 
-### Prometheus Group
-Dordrecht
+### Junior Software Developer 
+Prometheus Group
 
-Junior Software Developer  
+Dordrecht
 Maart 2020 - Mei 2021 (1 jaar 3 maanden)
 
-Research & Development  
+### Research & Development 
+Prometheus Group
+
+Dordrecht
 mei 2019 - maart 2020 (11 maanden)
 
-### Walburg College
-Zwijndrecht  
+### Medewerker iPad Helpdesk  
+Walburg College
 
-Medewerker iPad Helpdesk  
+Zwijndrecht  
 2016 - 2019 (3 jaar)
 
 
