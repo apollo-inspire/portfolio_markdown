@@ -24,21 +24,21 @@ Havo Diploma, Natuur & Gezondheid
 
 ## Werkervaring
 
+
 ### Junior Frontend Developer (intern)
 *insert bedrijfsnaam*
 
 Rotterdam
 Sep 2023 - Feb 2024
 
-### Verkoopmedewerker Decoratief  
+<!-- ### Verkoopmedewerker Decoratief  
 Karwei
 
 Hendrik-Ido-Ambacht
-Mei 2023 - Jun 2023
+Mei 2023 - Jun 2023 -->
 
-### Freelance Video Producer  
 
-LV Productions
+### LV Productions
 2017 - heden (6+ jaar)  
 [Portfolio: Lucas van der Vegt Productions](https://www.youtube.com/playlist?list=PLrWROtnnxuAOio7eYAoT9SVKgcJR2Dv29)
 
