@@ -4,7 +4,7 @@ lpsvandervegt@gmail.com
 
 *Webdeveloper & UX-Designer*
 
-## Development & Design Projects
+<!-- ## Development & Design Projects
 
 ### WIP Portfolio Website
 
@@ -54,16 +54,16 @@ Technologies: Figma
 
 <!-- insert verschillende stappen in cv (fotos) met uitleg & datum -->
 
-### Redesign of Rotterdam-The Hague Metropolitan Area Rapid Transit map
+<!-- ### Redesign of Rotterdam-The Hague Metropolitan Area Rapid Transit map
 
 Task: UX-Design, Graphical Design
 Date: 2023
 Link:  
 Technologies: Figma
 
-<!-- Insert diffrent iterations with explanation -->
+<!-- Insert different iterations with explanation -->
 
-### Agency Project - Strijderdam
+<!-- ### Agency Project - Strijderdam
 
 Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer     
 Client/Organisation: CMGT & Lectoraat Hogeschool Leiden (Jan Dirk de Jong)    
@@ -111,7 +111,7 @@ Technologies: Markdown, Google Spreadsheet
 
 ### CMGT: The Game
 
-Task: Gamedeveloper  
+Task: Gamedevelopment & Gamedesign  
 Client/Organisation: CMGT  
 Date: 2021  
 Location: Rotterdam-Rijnmond/Drechtsteden  
@@ -182,7 +182,7 @@ Client/Organisation: CMGT
 Date: 2020  
 Location: Rotterdam-Rijnmond/Drechtsteden    
 Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-ironman.html  
-Technologies: Arduino, Midi
+Technologies: Arduino, Midi --> --> -->
 
 ## Video Projects
 ### Terug naar de Kust
@@ -266,7 +266,7 @@ Team:
 - **Dennis van der Vegt** - Songcoach
 - **Reijer Tempelaar** - Main Monitor Technician
 
-### Zing!
+<!-- ### Zing!
 
 Task: Backstage Video & Monitor Technician Assistent   
 Client/Organisation: Vocal Popgroup Re-flax (& EO, ITV)  
@@ -278,10 +278,10 @@ Team:
 - **Jeffrey van der Vegt** - Songcoach
 - **Reijer Tempelaar** - Main Monitor Technician
 - **Lars Kramer** - Monitor Technician Assistent
-- **Tristan Vlok** - Monitor Technician Assistent
+- **Tristan Vlok** - Monitor Technician Assistent -->
 
 
-### Hollands got Talent
+<!-- ### Hollands got Talent
 
 Task: Main Monitor Technician  
 Client/Organisation: Vocal Popgroup Re-flax (& RTL)  
@@ -292,7 +292,7 @@ Link: https://www.gids.tv/video/500714/hollands-got-talent-75-koppige-vocal-popg
 Team:
 - **Jeffrey van der Vegt** - Songcoach
 - **Lars Kramer** - Monitor Technician Assistent
-- **Tristan Vlok** - Monitor Technician Assistent
+- **Tristan Vlok** - Monitor Technician Assistent -->
 
 
 

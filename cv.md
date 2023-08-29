@@ -1,4 +1,4 @@
-# CV
+<!-- # CV
 Lucas van der Vegt  
 Drechtsteden (Hendrik-Ido-Ambacht)  
 lpsvandervegt@gmail.com  
@@ -138,4 +138,4 @@ Worked with in the past:
 - Docker
 - VisualBasic
 - C#
-- JetBrains
+- JetBrains -->
